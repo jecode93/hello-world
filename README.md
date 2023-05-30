@@ -1,3 +1,20 @@
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+
+
 # Hello World
 
 > Hello World Microverse Project 
@@ -8,6 +25,24 @@
 - HTML
 - CSS
 
+### Tech Stack <a name="tech-stack"></a>
+
+> 
+
+<details>
+  <summary>Markup Language</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+  </ul>
+</details>
+
+
+<details>
+<summary>Style</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">CSS</a></li>
+  </ul>
+</details>
 
 ## Getting Started
 
@@ -20,8 +55,6 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 - Clone the repository
 - Open the project folder in Visual Studio Code
-
-
 
 ## Authors
 
@@ -46,3 +79,7 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
