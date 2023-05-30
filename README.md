@@ -4,10 +4,15 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -44,6 +49,16 @@
   </ul>
 </details>
 
+
+### Key Features <a name="key-features"></a>
+
+> Some useful features
+
+- **[Hello Microverse on the screen]**
+- **[Customize Color heading color]**
+- **[Remove useless files to the repos]**
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -56,6 +71,30 @@ To get a local copy up and running follow these simple example steps.
 - Clone the repository
 - Open the project folder in Visual Studio Code
 
+### Install
+
+Install this project using:
+
+- cd project/directory
+- Git clone [project](https://github.com/jecode93/hello-world.git)
+
+### Usage
+
+To run the project, execute the following command:
+
+- Launch index.html file in your browser
+
+
+### Run tests
+
+To run tests, run the following command:
+
+- Open the index.html file
+- Modify the h1 tag
+- Refresh you browser to see the changes
+
+
+
 ## Authors
 
 👤 **Jean Emmanuel Cadet**
@@ -63,6 +102,20 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@jecode93](https://github.com/jecode93)
 - Twitter: [@jecode93](https://twitter.com/jecode93)
 - LinkedIn: [jean-emmanuel-cadet](https://www.linkedin.com/in/jean-emmanuel-cadet/)
+
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Adding button to change heading text]**
+- [ ] **[Adding button to change heading color]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 🤝 Contributing
 
